@@ -1,0 +1,23 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#title {
+    color: blueviolet;
+}
+
+.tanitim-yazisi {
+    font-size: 18px;
+    font-family: 'New Tegomin', serif;
+}
+
+.list-ortala {
+    list-style-position: inside;
+}
+
+.left-container {
+    text-align: left;
+}
+
