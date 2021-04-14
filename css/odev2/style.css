@@ -1,0 +1,107 @@
+.container {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.appbar {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    margin: auto;
+    width: 95%;
+    height: 600px;
+}
+
+#appsbutton {
+    height: 20px;
+}
+
+#signinbutton {
+    background-color: #2978b5;
+    color: white;
+    padding: 5px;
+}
+.clear {
+    clear:both;
+}
+
+#logo{
+    padding-top: 150px;
+}
+
+#search {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 480px;
+    height: 25px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.button {
+    border-radius: 1px solid #f2f2f2;
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 4px;
+}
+
+/* .footer {
+    background-color:#f2f2f2 ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;;
+} */
+.f-left {
+    float: left;
+    margin-left: 30px;
+}
+.f-right {
+    margin-right: 30px;
+    float: right;
+}
+
+button {
+    border-radius: 1px solid #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+
+
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    list-style-type: none;
+  }
+  
+  .footerli {
+    float: left;
+  }
+  
+  .footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footerli a:hover {
+    text-decoration: underline;
+  }
